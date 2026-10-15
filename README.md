@@ -58,7 +58,7 @@ These ideas come from the numbers above. They are my suggestions, not proven fac
 1. **Fix delivery first.** Late orders get the worst reviews, and the late rate is growing.
 2. **Bring new customers back.** The 17,779 new customers are the best chance. A small offer for a second order could help, because a returning customer is worth about twice as much.
 
-## How I built it (in plain words)
+## How I built it 
 
 I did everything inside Excel. Here are the steps, like a cooking recipe:
 
@@ -75,7 +75,7 @@ I did everything inside Excel. Here are the steps, like a cooking recipe:
 
 ![Dashboard with 2017 selected](images/dashboard_2017.png)
 
-## Things to know (honest notes)
+## Things to know
 
 - Sales count **delivered orders only**. Canceled and unfinished orders are kept in the data but not counted as sales.
 - The data ends in **August 2018**, and 2016 has very few orders. So I only compare months that have data on both sides.
